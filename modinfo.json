@@ -1,0 +1,16 @@
+{
+  "author": "CryFisch", 
+  "build": "73939", 
+  "category": [
+    "in-game", 
+    "server-mod"
+  ], 
+  "context": "server", 
+  "date": "2014/10/18", 
+  "description": "new behavior for defense buildings", 
+  "display_name": "Enhanced Defense Mod", 
+  "enabled": true, 
+  "identifier": "com.pa.cryfisch.enhanceddefensemod", 
+  "version": "0.1",
+  "priority": 100
+}
